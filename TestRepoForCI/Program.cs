@@ -10,7 +10,7 @@ namespace TestRepoForCI
     {
         static void Main(string[] args)
         {
-            var test = "Hello world";
+            var test = "Hello world CI";
             Console.Write(test);
         }
     }
