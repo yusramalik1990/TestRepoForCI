@@ -10,6 +10,8 @@ namespace TestRepoForCI
     {
         static void Main(string[] args)
         {
+            var test = "Hello world";
+            Console.Write(test);
         }
     }
 }
