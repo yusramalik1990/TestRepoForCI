@@ -12,6 +12,7 @@ namespace TestRepoForCI
         {
             var test = "Hello world CI";
             Console.Write(test);
+            Console.ReadKey();
         }
     }
 }
